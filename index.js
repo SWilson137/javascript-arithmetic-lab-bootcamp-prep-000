@@ -1,11 +1,14 @@
+var a
+var b
+
 function add(a, b){
-  return a + b
+  a += b
 }
 
 add()
 
 function sub(a, b){
-  return a - b
+  a -= b
 }
 
 sub()
