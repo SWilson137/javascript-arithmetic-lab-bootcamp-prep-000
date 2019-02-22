@@ -15,13 +15,13 @@ function divide(a, b){
 }
 
 function inc(n){
-  n = 5
-  return n++
+  n++
+  return n
 }
 
 function dec(n){
-  n = 5
-  return n--
+  n--
+  return n
 }
 
 function makeInt(n){
