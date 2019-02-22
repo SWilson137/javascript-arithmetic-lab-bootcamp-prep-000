@@ -22,3 +22,10 @@ function div(a, b){
 
 div()
 
+function inc(n){
+  return n++
+}
+
+function dec(n){
+  return n--
+}
