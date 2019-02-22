@@ -14,9 +14,4 @@ function divide(a, b){
   return a / b;
 }
 
-inc(a)
-dec(b)
-
-function makeInt(n){
-  return parseInt('n')
-}
+parseInt('n', 10)
