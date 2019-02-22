@@ -21,7 +21,7 @@ function inc(n){
 
 function dec(n){
   n--
-  return `${n}`
+  return n
 }
 
 function makeInt(n){
@@ -31,5 +31,5 @@ function makeInt(n){
 
 function preserveDecimal(n){
   parseFloat('n')
-  return `${n}`
+  return n
 }
