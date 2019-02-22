@@ -4,4 +4,4 @@ function add(a, b){
   return a + b
 }
 
-add5()
+add()
