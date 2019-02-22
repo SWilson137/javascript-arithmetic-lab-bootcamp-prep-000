@@ -7,8 +7,7 @@ function add(){
 
 add()
 
-a = 10
-b = 10
+
 
 /*
 function sub(a, b){
